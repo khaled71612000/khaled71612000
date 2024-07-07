@@ -26,8 +26,11 @@
 - **Highlights:** Implements flocking behavior including alignment, cohesion, and separation.
 
 ![Demo GIF 1](https://media.giphy.com/media/T02TdhIylfzXnW0TGs/giphy.gif)
+
 ![Demo GIF 2](https://media.giphy.com/media/3dD9eKUQSGVFtgmU1Y/giphy.gif)
+
 ![Demo GIF 3](https://media.giphy.com/media/o8uXvzESLjR3hRw47u/giphy.gif)
+
 ![Demo GIF 4](https://media.giphy.com/media/3mucgAZYzociTCUQBd/giphy.gif)
 
 
