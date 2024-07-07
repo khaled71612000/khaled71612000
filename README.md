@@ -22,7 +22,7 @@
 - **Highlights**: Implements flocking behavior including alignment, cohesion, and separation.
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt0a2liejA5Ymx2OTZmOWNneXN5bDFzczI1MGkwbTFwMmY3NG1waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T02TdhIylfzXnW0TGs/giphy.gif)
-![Demo GIF](https://media.giphy.com/media/OV9eKRvaPiqu6mvpoV/giphy.gif)
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB2dDhnOTRjMnk3eWswY2VxemxwbGFtMHZ6M2FyaGJ3M2J6MmpnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OV9eKRvaPiqu6mvpoV/giphy.gif)
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAxMDh0b2U4NTdpcHljcGRxYmVxenhiaDVibTFyaDJ5MjZjdDM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o8uXvzESLjR3hRw47u/giphy.gif)
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVhZmNqdHE2aTd5azRheG83ZWY2eGdlaXZsMHIzMzNjMW1leDlsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mucgAZYzociTCUQBd/giphy.gif)
 
