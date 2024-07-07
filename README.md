@@ -25,7 +25,13 @@
 - **Technologies:** C++, Unreal Engine
 - **Highlights:** Implements flocking behavior including alignment, cohesion, and separation.
 
-![Demo GIF 1](https://media.giphy.com/media/T02TdhIylfzXnW0TGs/giphy.gif) ![Demo GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE4eWdmOTJ2ODJ1ZDQ3d2I1a2Z2NGttd3U2b2g0ams4eDlidG1nZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dD9eKUQSGVFtgmU1Y/giphy-downsized-large.gif) ![Demo GIF 3](https://media.giphy.com/media/o8uXvzESLjR3hRw47u/giphy.gif) ![Demo GIF 4](https://media.giphy.com/media/3mucgAZYzociTCUQBd/giphy.gif)
+<div style="display: flex; overflow-x: auto;">
+  <img src="https://media.giphy.com/media/T02TdhIylfzXnW0TGs/giphy.gif" alt="Demo GIF 1" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE4eWdmOTJ2ODJ1ZDQ3d2I1a2Z2NGttd3U2b2g0ams4eDlidG1nZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dD9eKUQSGVFtgmU1Y/giphy-downsized-large.gif" alt="Demo GIF 2" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/o8uXvzESLjR3hRw47u/giphy.gif" alt="Demo GIF 3" style="margin-right: 10px;">
+  <img src="https://media.giphy.com/media/3mucgAZYzociTCUQBd/giphy.gif" alt="Demo GIF 4" style="margin-right: 10px;">
+</div>
+
 
 
 ### Connect with me:
