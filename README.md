@@ -11,16 +11,15 @@
   
 - My website [Khaled Portfolio](https://www.khaledelsayedzakaria.com/)
 
-### [Highlight 1: City building game](https://github.com/khaled71612000/HumanityLastResort)
-- **Description**: 3D city-building game where the player controls a resort owner aiming to satisfy aggressive aliens by building and managing a resort.
-- **Technologies**: C++, Unreal Engine
-- **Highlights**: Implemented real-time synchronization and multiplayer logic.
-- **Demo**: [Video Link]([https://example.com/demo](https://youtu.be/MwhhXPSRmPE?si=ZvdUecpW8q13OUrL))
-
-### [Highlight 2: HexGrid Island Builder](https://github.com/khaled71612000/Hex-Grid-Island-Builder)
+### [Highlight 1: HexGrid Island Builder](https://github.com/khaled71612000/Hex-Grid-Island-Builder)
 - **Description**: Grid Island Builder is a project developed using Unreal Engine, showcasing the creation of a grid-based island-building game.
-- **Technologies**: C++, Unreal
-- **Highlights**: Procedural Generation: Uses Perlin noise
+- **Technologies**: C++, Unreal Engine
+- **Highlights**: Procedural hexagon island generation using Perlin noise.
+
+### [Highlight 2: BoidsCpp](https://github.com/khaled71612000/BoidsCpp)
+- **Description**: A C++ project to simulate the behavior of boids using the Boids algorithm.
+- **Technologies**: C++, Unreal Engine
+- **Highlights**: Implements flocking behavior including alignment, cohesion, and separation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
