@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=khaled71612000&label=Profile%20views&color=0e75b6&style=flat" alt="khaled71612000" />
 </p>
 
-<h3 align="center">
+<p align="center">
   Autonomous team player with 2+ years of game development experience and 2 years in web/mobile development. Skilled in Unreal Engine and C++, specializing in gameplay mechanics and performance optimization. Currently focused on AAA game development, enhancing player engagement through innovative mechanics and reliable code.
-</h3>
+</p>
 
 - **Email:** khaled71612000@gmail.com
 - **LinkedIn:** [Career](https://www.linkedin.com/in/khaledelsayeddev/)
@@ -25,10 +25,10 @@
 - **Technologies:** C++, Unreal Engine
 - **Highlights:** Implements flocking behavior including alignment, cohesion, and separation.
 
-![Demo GIF 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt0a2liejA5Ymx2OTZmOWNneXN5bDFzczI1MGkwbTFwMmY3NG1waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T02TdhIylfzXnW0TGs/giphy.gif)
-![Demo GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB2dDhnOTRjMnk3eWswY2VxemxwbGFtMHZ6M2FyaGJ3M2J6MmpnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OV9eKRvaPiqu6mvpoV/giphy.gif)
-![Demo GIF 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHAxMDh0b2U4NTdpcHljcGRxYmVxenhiaDVibTFyaDJ5MjZjdDM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o8uXvzESLjR3hRw47u/giphy.gif)
-![Demo GIF 4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVhZmNqdHE2aTd5azRheG83ZWY2eGdlaXZsMHIzMzNjMW1leDlsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mucgAZYzociTCUQBd/giphy.gif)
+![Demo GIF 1](https://media.giphy.com/media/T02TdhIylfzXnW0TGs/giphy.gif)
+![Demo GIF 2](https://media.giphy.com/media/OV9eKRvaPiqu6mvpoV/giphy.gif)
+![Demo GIF 3](https://media.giphy.com/media/o8uXvzESLjR3hRw47u/giphy.gif)
+![Demo GIF 4](https://media.giphy.com/media/3mucgAZYzociTCUQBd/giphy.gif)
 
 ### Connect with me:
 <p align="left">
