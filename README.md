@@ -16,7 +16,7 @@
 - **Technologies**: C++, Unreal Engine
 - **Highlights**: Procedural hexagon island generation using Perlin noise.
 
-![Demo GIF](https://giphy.com/embed/T02TdhIylfzXnW0TGs)
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt0a2liejA5Ymx2OTZmOWNneXN5bDFzczI1MGkwbTFwMmY3NG1waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T02TdhIylfzXnW0TGs/giphy.gif)
 
 ### [Highlight 2: BoidsCpp](https://github.com/khaled71612000/BoidsCpp)
 - **Description**: A C++ project to simulate the behavior of boids using the Boids algorithm.
