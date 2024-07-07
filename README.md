@@ -15,7 +15,7 @@
 - **Description**: Grid Island Builder is a project developed using Unreal Engine, showcasing the creation of a grid-based island-building game.
 - **Technologies**: C++, Unreal Engine
 - **Highlights**: Procedural hexagon island generation using Perlin noise.
-- 
+  
 ### [Highlight 2: BoidsCpp](https://github.com/khaled71612000/BoidsCpp)
 - **Description**: A C++ project to simulate the behavior of boids using the Boids algorithm.
 - **Technologies**: C++, Unreal Engine
