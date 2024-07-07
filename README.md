@@ -27,7 +27,7 @@
 
 ![Demo GIF 1](https://media.giphy.com/media/T02TdhIylfzXnW0TGs/giphy.gif)
 
-![Demo GIF 2](https://media.giphy.com/media/3dD9eKUQSGVFtgmU1Y/giphy.gif)
+![Demo GIF 2](https://media.giphy.com/media/OV9eKRvaPiqu6mvpoV/giphy.gif)
 
 ![Demo GIF 3](https://media.giphy.com/media/o8uXvzESLjR3hRw47u/giphy.gif)
 
