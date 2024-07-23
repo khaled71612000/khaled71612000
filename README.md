@@ -34,7 +34,6 @@
   <img src="https://media.giphy.com/media/uuVpe02tsJV21hmTqF/giphy.gif" alt="GIF 2" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://media.giphy.com/media/R37eeyW8phT9dA05Mr/giphy.gif" alt="GIF 3" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://media.giphy.com/media/9JSXd6EIBRGy09J3SY/giphy.gif" alt="GIF 4" style="margin-right: 10px; margin-bottom: 10px;">
-  <img src="https://media.giphy.com/media/n0HjUIj5Hh2au4KlKK/giphy.gif" alt="GIF 5" style="margin-right: 10px; margin-bottom: 10px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFqcmR3Nm1sbHpjc2lsY3liNDN1a2tnbWh3aWJweXRwcHg0MnIyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uuVpe02tsJV21hmTqF/giphy-downsized.gif" alt="GIF" style="margin-right: 10px; margin-bottom: 10px;">
 </div>
 
