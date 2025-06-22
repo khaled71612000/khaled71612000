@@ -37,7 +37,7 @@
     <td><img src="https://media.giphy.com/media/RerxWOIYM5Z75aEukt/giphy.gif" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://media.giphy.com/media/Ln2ghQWCthB9hySdTf/giphy.gif" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5106c6e6-5957-4d9a-a54a-01c7254e6ff6" width="200"/></td>
     <td><img src="https://media.giphy.com/media/9JSXd6EIBRGy09J3SY/giphy.gif" width="200"/></td>
     <td><img src="https://media.giphy.com/media/uuVpe02tsJV21hmTqF/giphy-downsized.gif" width="200"/></td>
   </tr>
